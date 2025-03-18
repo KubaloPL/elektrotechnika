@@ -1,5 +1,3 @@
-Jasne, zrobię to! Poniżej znajdziesz streszczenie tego wykładu o elektrotechnice, napisane prostym językiem, z zachowaniem wszystkich szczegółów i wyjaśnieniem pojęć.
-
 ## Wprowadzenie do Elektrotechniki - Streszczenie Wykładu "po ludzku"
 
 Ten wykład to takie **wprowadzenie do świata prądu i elektryczności**. Zaczniemy od podstaw, czyli **czym są w ogóle te wszystkie "wielkości elektryczne"**, jak je mierzymy i w jakich jednostkach. Potem przejdziemy do **podstawowych pojęć**, jak ładunek, napięcie i prąd. Następnie **pogrupujemy elementy elektryczne** i na koniec zajmiemy się **sygnałami elektrycznymi** i jak je opisywać.
