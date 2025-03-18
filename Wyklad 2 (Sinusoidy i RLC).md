@@ -1,5 +1,3 @@
-Jasne, chętnie pomogę Ci zrozumieć ten wykład o obwodach prądu sinusoidalnego jednofazowego. Wyjaśnię go prostym językiem i wytłumaczę wszystkie pojęcia.
-
 **Zacznijmy od początku: Co to jest prąd sinusoidalny?**
 
 Wyobraź sobie prąd elektryczny, który płynie w obwodzie. Zwykle myślimy o prądzie stałym, jak w baterii, gdzie prąd płynie w jednym kierunku cały czas.  Prąd sinusoidalny to prąd **zmienny**, który płynie raz w jedną stronę, raz w drugą, i robi to w regularny, falujący sposób, przypominający sinusoidę (taka fala).
