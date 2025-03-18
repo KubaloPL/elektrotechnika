@@ -1,5 +1,3 @@
-Jasne, rozwinę to bardziej szczegółowo, krok po kroku, starając się utrzymać prosty język i dodając więcej przykładów i analogii.
-
 **1. Energia i Elektrony w Materiałach: Pasma Energii**
 
 * **Elektrony nie mogą mieć dowolnej energii:** Wyobraź sobie, że elektrony w atomie mogą krążyć tylko po określonych orbitach, jak planety wokół Słońca. Każda orbita odpowiada określonemu poziomowi energii.
