@@ -1,5 +1,3 @@
-Jasne, oto streszczenie wykładu o sterowniku LOGO!, wyjaśnione prostym językiem i z zachowaniem wszystkich szczegółów:
-
 **Sterownik Programowalny LOGO! - Uniwersalny mózg dla Twoich urządzeń**
 
 LOGO! to taki uniwersalny "mózg" elektroniczny, stworzony przez firmę Siemens.  Wyobraź sobie, że masz klocki LEGO, ale zamiast budować z nich zamki, budujesz układy sterujące różnymi urządzeniami. LOGO! jest właśnie takim "klockiem" -  ma w sobie wszystko, co potrzebne, żeby sterować prostymi rzeczami w domu, jak i bardziej skomplikowanymi w przemyśle.
