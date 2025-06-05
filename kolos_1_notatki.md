@@ -55,6 +55,7 @@ Dwójnik równoległy RLC to obwód, w którym opornik (R), cewka (L) i kondensa
     *   Prądy `IL` i `IC` mogą być znacznie większe od prądu źródłowego, ale znoszą się wzajemnie (prąd krąży między cewką a kondensatorem).
 
 **Co narysować?**
+
 ![alt text](https://files.catbox.moe/krwyjz.png)
 
 ---
@@ -104,6 +105,7 @@ Tranzystor bipolarny (BJT - Bipolar Junction Transistor) to element półprzewod
 *   **Punkt pracy (Q):** Punkt przecięcia prostej obciążenia z charakterystyką wyjściową dla danego prądu bazy `IB`. Określa stałe wartości `ICQ` i `UCEQ` przy braku sygnału wejściowego.
 
 **Co narysować?**
+
 ![alt text](https://files.catbox.moe/4t2lp6.png)
 ---
 
@@ -131,6 +133,7 @@ Aby tranzystor pracował poprawnie jako wzmacniacz, musi być odpowiednio spolar
 *   **Wady:** Zależność `IC` od β, choć mniejsza niż w układzie z stałym prądem bazy, jest wciąż obecna. Wzór na `IC=(UCC- UBE)/(RC + RB/β)` pokazuje, że wpływ β jest mniejszy, jeśli `RB/β` jest małe w porównaniu do `RC`.
 
 **Co narysować?**
+
 ![alt text](https://files.catbox.moe/5xpytq.png)
 
 ---
@@ -185,6 +188,7 @@ Sterownik LOGO! posiada wiele gotowych bloków funkcyjnych, które ułatwiają p
     *   Wyjście Q: Staje się aktywne (1) tylko w tych cyklach (`Cycle`), gdzie wszystkie wejścia są 1, a na przynajmniej jednym z nich (np. wejście 1 na wykresie) właśnie nastąpiło przejście z 0 na 1. Widać, że w cyklu 1 Q=1, bo wszystkie In=1 i In1 zmieniło się z 0->1. W cyklu 2, mimo że In=1, Q=0, bo nie było nowego zbocza.
 
 **Co narysować?**
+
 ![alt text](https://files.catbox.moe/zcltrc.png)
 ---
 
